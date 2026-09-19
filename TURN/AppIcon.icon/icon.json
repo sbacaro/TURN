@@ -1,21 +1,28 @@
 {
-  "groups" : [
+  "fill" : {
+    "linear-gradient" : [
+      "extended-srgb:0.16000,0.52000,0.95000,1.00000",
+      "extended-srgb:0.04000,0.14000,0.30000,1.00000"
+    ]
+  },
+  "fill-specializations" : [
     {
-      "name" : "Background",
-      "layers" : [
-        {
-          "name" : "Wash",
-          "image-name" : "background.png",
-          "opacity" : 1
-        }
-      ]
-    },
+      "appearance" : "dark",
+      "value" : {
+        "linear-gradient" : [
+          "extended-srgb:0.10000,0.38000,0.76000,1.00000",
+          "extended-srgb:0.02000,0.08000,0.20000,1.00000"
+        ]
+      }
+    }
+  ],
+  "groups" : [
     {
       "name" : "Fader Tracks",
       "layers" : [
         {
           "name" : "Tracks",
-          "image-name" : "mid-plate.png",
+          "image-name" : "tracks.svg",
           "opacity" : 1,
           "glass" : true
         }
@@ -27,11 +34,11 @@
       }
     },
     {
-      "name" : "Fader Caps",
+      "name" : "SF Symbol",
       "layers" : [
         {
-          "name" : "SF Symbol",
-          "image-name" : "symbol.png",
+          "name" : "Slider",
+          "image-name" : "symbol.svg",
           "opacity" : 1
         }
       ],
