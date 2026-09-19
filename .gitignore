@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+._*
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+*.xcresult
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Build artifacts (app bundles are built, not committed)
+*.app
+
+# Playground / scratch files
+*.playground

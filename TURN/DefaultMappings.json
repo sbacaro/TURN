@@ -1,0 +1,56 @@
+{
+  "mappings" : [
+    { "hardwareCC" : 30, "huiCommand" : "FADER_1", "name" : "Fader 1" },
+    { "hardwareCC" : 31, "huiCommand" : "FADER_2", "name" : "Fader 2" },
+    { "hardwareCC" : 32, "huiCommand" : "FADER_3", "name" : "Fader 3" },
+    { "hardwareCC" : 33, "huiCommand" : "FADER_4", "name" : "Fader 4" },
+    { "hardwareCC" : 34, "huiCommand" : "FADER_5", "name" : "Fader 5" },
+    { "hardwareCC" : 35, "huiCommand" : "FADER_6", "name" : "Fader 6" },
+    { "hardwareCC" : 36, "huiCommand" : "FADER_7", "name" : "Fader 7" },
+    { "hardwareCC" : 37, "huiCommand" : "FADER_8", "name" : "Fader 8" },
+
+    { "hardwareCC" : 40, "huiCommand" : "MUTE_1", "name" : "Mute 1" },
+    { "hardwareCC" : 41, "huiCommand" : "MUTE_2", "name" : "Mute 2" },
+    { "hardwareCC" : 42, "huiCommand" : "MUTE_3", "name" : "Mute 3" },
+    { "hardwareCC" : 43, "huiCommand" : "MUTE_4", "name" : "Mute 4" },
+    { "hardwareCC" : 44, "huiCommand" : "MUTE_5", "name" : "Mute 5" },
+    { "hardwareCC" : 45, "huiCommand" : "MUTE_6", "name" : "Mute 6" },
+    { "hardwareCC" : 46, "huiCommand" : "MUTE_7", "name" : "Mute 7" },
+    { "hardwareCC" : 47, "huiCommand" : "MUTE_8", "name" : "Mute 8" },
+
+    { "hardwareCC" : 48, "huiCommand" : "SOLO_1", "name" : "Solo 1" },
+    { "hardwareCC" : 49, "huiCommand" : "SOLO_2", "name" : "Solo 2" },
+    { "hardwareCC" : 50, "huiCommand" : "SOLO_3", "name" : "Solo 3" },
+    { "hardwareCC" : 51, "huiCommand" : "SOLO_4", "name" : "Solo 4" },
+    { "hardwareCC" : 52, "huiCommand" : "SOLO_5", "name" : "Solo 5" },
+    { "hardwareCC" : 53, "huiCommand" : "SOLO_6", "name" : "Solo 6" },
+    { "hardwareCC" : 54, "huiCommand" : "SOLO_7", "name" : "Solo 7" },
+    { "hardwareCC" : 55, "huiCommand" : "SOLO_8", "name" : "Solo 8" },
+
+    { "hardwareCC" : 56, "huiCommand" : "REC_1", "name" : "Record Arm 1" },
+    { "hardwareCC" : 57, "huiCommand" : "REC_2", "name" : "Record Arm 2" },
+    { "hardwareCC" : 58, "huiCommand" : "REC_3", "name" : "Record Arm 3" },
+    { "hardwareCC" : 59, "huiCommand" : "REC_4", "name" : "Record Arm 4" },
+    { "hardwareCC" : 60, "huiCommand" : "REC_5", "name" : "Record Arm 5" },
+    { "hardwareCC" : 61, "huiCommand" : "REC_6", "name" : "Record Arm 6" },
+    { "hardwareCC" : 62, "huiCommand" : "REC_7", "name" : "Record Arm 7" },
+    { "hardwareCC" : 63, "huiCommand" : "REC_8", "name" : "Record Arm 8" },
+
+    { "hardwareCC" : 64, "huiCommand" : "SELECT_1", "name" : "Select 1" },
+    { "hardwareCC" : 65, "huiCommand" : "SELECT_2", "name" : "Select 2" },
+    { "hardwareCC" : 66, "huiCommand" : "SELECT_3", "name" : "Select 3" },
+    { "hardwareCC" : 67, "huiCommand" : "SELECT_4", "name" : "Select 4" },
+    { "hardwareCC" : 68, "huiCommand" : "SELECT_5", "name" : "Select 5" },
+    { "hardwareCC" : 69, "huiCommand" : "SELECT_6", "name" : "Select 6" },
+    { "hardwareCC" : 70, "huiCommand" : "SELECT_7", "name" : "Select 7" },
+    { "hardwareCC" : 71, "huiCommand" : "SELECT_8", "name" : "Select 8" },
+
+    { "hardwareCC" : 90, "huiCommand" : "PLAY", "name" : "Play" },
+    { "hardwareCC" : 91, "huiCommand" : "STOP", "name" : "Stop" },
+    { "hardwareCC" : 92, "huiCommand" : "RECORD", "name" : "Record" },
+    { "hardwareCC" : 93, "huiCommand" : "REWIND", "name" : "Rewind" },
+    { "hardwareCC" : 94, "huiCommand" : "FAST_FORWARD", "name" : "Fast Forward" },
+    { "hardwareCC" : 95, "huiCommand" : "CHANNEL_LEFT", "name" : "Bank Left" },
+    { "hardwareCC" : 96, "huiCommand" : "CHANNEL_RIGHT", "name" : "Bank Right" }
+  ]
+}

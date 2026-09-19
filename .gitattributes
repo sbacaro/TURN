@@ -1,0 +1,14 @@
+* text=auto
+
+*.swift text
+*.json text
+*.plist text
+*.md text
+*.xcstrings text
+*.pbxproj text working-tree-encoding=UTF-8
+
+# Binary assets
+*.smc binary
+*.png binary
+*.icns binary
+*.xcassets binary
