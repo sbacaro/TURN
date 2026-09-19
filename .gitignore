@@ -18,3 +18,4 @@ build/
 
 # Playground / scratch files
 *.playground
+generate_icon_layers.swift
