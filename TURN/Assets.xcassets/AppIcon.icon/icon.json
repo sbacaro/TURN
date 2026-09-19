@@ -1,0 +1,44 @@
+{
+  "groups" : [
+    {
+      "name" : "Background",
+      "layers" : [
+        {
+          "name" : "Wash",
+          "image-name" : "background.png",
+          "opacity" : 1
+        }
+      ]
+    },
+    {
+      "name" : "Fader Tracks",
+      "layers" : [
+        {
+          "name" : "Tracks",
+          "image-name" : "mid-plate.png",
+          "opacity" : 1,
+          "glass" : {
+            "translucency" : 0.55,
+            "specular" : true
+          }
+        }
+      ]
+    },
+    {
+      "name" : "Fader Caps",
+      "layers" : [
+        {
+          "name" : "Caps",
+          "image-name" : "foreground.png",
+          "opacity" : 1
+        }
+      ]
+    }
+  ],
+  "assets" : [
+    "background.png",
+    "mid-plate.png",
+    "foreground.png"
+  ],
+  "version" : "1.0"
+}
