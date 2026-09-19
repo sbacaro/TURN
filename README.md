@@ -77,7 +77,11 @@ Launch the app. The menu bar icon reflects connection state:
 
 Open the menu to check both statuses (Hardware, Pro Tools HUI). Use **Settings** (⌘,) to enable *Open at Login*.
 
-## Building from source
+## Install
+
+**Download the binary:** grab [`TURN-1.0.0-macOS-27.zip`](https://github.com/sbacaro/TURN/releases/download/v1.0.0/TURN-1.0.0-macOS-27.zip) from the [releases page](https://github.com/sbacaro/TURN/releases), unzip, and move `TURN.app` to `/Applications`. On first launch, right-click the app and choose **Open** (the binary is signed with an Apple Developer ID, not notarized).
+
+**Build from source:**
 
 ```bash
 git clone https://github.com/sbacaro/TURN.git
